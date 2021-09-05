@@ -31,7 +31,7 @@ body {
 }
 .center {
   padding-top: 184px;
-  background-color: coral;
+  
   display: flex;
   flex-direction: column;
   justify-content: center;
